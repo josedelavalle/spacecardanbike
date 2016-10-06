@@ -41,6 +41,7 @@
 						
 							<li><a href="index.php">Home</a></li>
 							<li><a href="dark/index.html">Parts Gallery</a></li>
+							<li><a href="brochure.pdf">Our Brochure</a></li>
 							<li>
 								<a href="#">Welcome</a>
 								<ul>
@@ -49,6 +50,7 @@
 								    <li><a href="#three">Leadership</a></li>
 				            		<li><a href="#four">Reliability</a></li>
 				            		<li><a href="#five">Contact Us</a></li>
+
 									<!--<li>
 										<a href="#">Submenu</a>
 										<ul>
