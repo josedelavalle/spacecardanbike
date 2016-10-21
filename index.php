@@ -78,7 +78,7 @@
 						</div>
 							<h2>Space Cardan Bike USA</h2>
                             <p>modern, chainless bicycle design, <br>
-							smart, elegant rental soultions</p>
+							smart, elegant rental solutions</p>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
